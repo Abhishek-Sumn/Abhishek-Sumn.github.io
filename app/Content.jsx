@@ -10,14 +10,12 @@ export default function Content() {
         <div id="about" className="about">
           <p>
             Aspiring tech engineer with a flair for fusing engineering and
-            design. My sweet spot is the intersection of coding and user
-            experience.
+            design. 
           </p>
           <p>
             I geek out on languages like <b>C++</b>, <b>HTML</b>, <b>CSS</b>,
-            and <b>JavaScript</b>. But I also obsess over aesthetics and
-            intuition in <b>UI</b> and <b>UX</b>. I love sculpting products that
-            are both visually striking and seamlessly usable.{" "}
+            and <b>JavaScript</b> with good understanding of <b>React/Next JS</b>
+            {" "}
           </p>
           <p>
             I'm always seeking out new adventures, perspectives, and design
